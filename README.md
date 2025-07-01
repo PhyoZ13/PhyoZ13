@@ -4,11 +4,19 @@
 
 🚀 **Tech Stack:**
 🔹 Backend: PHP (Laravel), Node.js
+
 🔹 Frontend: React.js, Vue.js
+
 🔹 Database: MySQL, PostgreSql
+
 🔹 DevOps: AWS, Docker, CI/CD, AlibabaCloud, Digital Ocean, GCP, Fly.io
 
-💳 Expertise: Payment Gateway Integration (Stripe, PayPal, Xendit, Midtrans and more...)
-🔗 Third-Party API Integrations: Xero, Agora, and more...
+💳 Expertise:
+
+   Payment Gateway Integration (Stripe, PayPal, Xendit, Midtrans, Dinger and more...)
+   
+🔗 Third-Party API Integrations:
+
+   Xero, Agora, Twillio, Sentry, Firebase, Pusher, Stripeand more...
 
 ⚡ Passionate about optimizing system performance, scalability, and security. Always learning and exploring new technologies!
