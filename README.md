@@ -13,10 +13,11 @@
 
 💳 Expertise:
 
-   Payment Gateway Integration (Stripe, PayPal, Xendit, Midtrans, Dinger and more...)
+      Payment Gateway Integration (Stripe, PayPal, Xendit, Midtrans, Dinger and more...)
    
 🔗 Third-Party API Integrations:
 
-   Xero, Agora, Twillio, Sentry, Firebase, Pusher, Stripeand more...
+      Xero, Agora, Twillio, Sentry, Firebase, Pusher, Stripeand more...
+      
 
 ⚡ Passionate about optimizing system performance, scalability, and security. Always learning and exploring new technologies!
