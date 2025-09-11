@@ -3,13 +3,13 @@
    I have a strong background in building scalable APIs, **payment integrations, and third-party service integrations**.
 
 🚀 **Tech Stack:**
-🔹 Backend: PHP (Laravel), Node.js
+🔹 Backend: PHP (Laravel), Node.js (Express.js)
 
 🔹 Frontend: React.js, Vue.js
 
 🔹 Database: MySQL, PostgreSql
 
-🔹 DevOps: AWS, Docker, CI/CD, AlibabaCloud, Digital Ocean, GCP, Fly.io
+🔹 DevOps: AWS, AWS s3, AWS EC2, AWS RDS, Docker, CI/CD, AlibabaCloud, Digital Ocean, GCP, Fly.io
 
 💳 Expertise:
 
